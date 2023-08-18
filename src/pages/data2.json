@@ -1,0 +1,44 @@
+{
+  "Succulents": {
+    "title": "Plants",
+    "description": "Images of living succulents.",
+    "photos": [
+      {
+        "title": "Aloe vera.",
+        "imageURL": "https://unsplash.com/photos/dgvFsLfIX9E",
+        "sourceURL": "https://unsplash.com/s/photos/succulent-plants"
+      },
+      {
+        "title": "Succulents in small pots.",
+        "imageURL": "https://unsplash.com/photos/5DYNYdBgtDw",
+        "sourceURL": "hhttps://unsplash.com/s/photos/succulent-plants"
+      },
+      {
+        "title": "Another kind of succulent.",
+        "imageURL": "https://unsplash.com/photos/Qtso7p2tOI4",
+        "sourceURL": "hhttps://unsplash.com/s/photos/succulent-plants"
+      }
+    ]
+  },
+  "Animals": {
+    "title": "Animals are love.",
+    "description": "Images of lovely animals.",
+    "photos": [
+      {
+        "title": "Here is a kitty cat.",
+        "imageURL": "https://unsplash.com/photos/k48uqoncP3s",
+        "sourceURL": "https://unsplash.com/s/photos/animal"
+      },
+      {
+        "title": "Here is a bird.",
+        "imageURL": "https://unsplash.com/photos/aeNg4YA41P8",
+        "sourceURL": "https://unsplash.com/s/photos/animal"
+      },
+      {
+        "title": "Here is a local favorite, the flamingo.",
+        "imageURL": "https://unsplash.com/photos/wTPp323zAEw",
+        "sourceURL": "https://unsplash.com/s/photos/animal"
+      }
+    ]
+  }
+}
